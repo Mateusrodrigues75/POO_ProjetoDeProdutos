@@ -16,7 +16,7 @@ namespace POO_ProjetoDeProdutos.classes
             Nome = _nome;
             Email = _email;
             Senha = _senha;
-            DataCadastro = DateTime.UtcNow;
+            DataCadastro = DateTime.Now;
         }
 
         public int Codigo { get; set; }         
@@ -29,7 +29,7 @@ namespace POO_ProjetoDeProdutos.classes
             Nome = "Mateus";
             Email = "admin@admin.com";
             Senha = "12345";
-            DataCadastro = DateTime.UtcNow;
+            DataCadastro = DateTime.Now;
         }       
 
         public void Deletar(){
