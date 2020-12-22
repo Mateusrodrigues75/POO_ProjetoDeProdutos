@@ -9,8 +9,8 @@ namespace POO_ProjetoDeProdutos.classes
         public string NomeProduto { get; set; } 
         public float Preco { get; set; }
         public Marca Marca { get; set; }
-        public Usuario CadastradoPor { get; set; }
-        public DateTime DataCadastro { get; set; }  
+        public Usuario CadastradoPor = new Usuario();
+        public DateTime DataCadastro = new DateTime();  
         List<Produto> ListaDeProduto = new List<Produto>();
 
         public void Cadastrar(){
@@ -21,10 +21,10 @@ namespace POO_ProjetoDeProdutos.classes
             Console.WriteLine($"Digite o nome do Produto: ");
             novoProduto.NomeProduto = Console.ReadLine();
             
-            Console.WriteLine($"Digite o código do Produto: ");
+            Console.WriteLine($"Digite o preço do Produto: ");
             novoProduto.Preco = float.Parse(Console.ReadLine());
 
-            novoProduto.DataCadastro = DateTime.UtcNow;
+            // novoProduto.DataCadastro = DateTime.UtcNow;
 
             novoProduto.Marca = Marca.CadastrarMarca();
             novoProduto.CadastradoPor = new Usuario();

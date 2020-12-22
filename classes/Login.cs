@@ -24,9 +24,7 @@ namespace POO_ProjetoDeProdutos.classes
 
             do
             {
-                System.Console.WriteLine();
                 System.Console.WriteLine("-----MENU DE OPÇÕES-----");
-                System.Console.WriteLine();
                 System.Console.WriteLine("----ESCOLHA A OPÇÃO----");
                 System.Console.WriteLine("[1] - CADASTRAR PRODUTO");
                 System.Console.WriteLine("[2] - LISTAR PRODUTOS");

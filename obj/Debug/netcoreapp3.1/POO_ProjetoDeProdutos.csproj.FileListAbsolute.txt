@@ -1,0 +1,13 @@
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\POO_ProjetoDeProdutos\bin\Debug\netcoreapp3.1\POO_ProjetoDeProdutos.exe
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\POO_ProjetoDeProdutos\bin\Debug\netcoreapp3.1\POO_ProjetoDeProdutos.deps.json
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\POO_ProjetoDeProdutos\bin\Debug\netcoreapp3.1\POO_ProjetoDeProdutos.runtimeconfig.json
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\POO_ProjetoDeProdutos\bin\Debug\netcoreapp3.1\POO_ProjetoDeProdutos.runtimeconfig.dev.json
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\POO_ProjetoDeProdutos\bin\Debug\netcoreapp3.1\POO_ProjetoDeProdutos.dll
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\POO_ProjetoDeProdutos\bin\Debug\netcoreapp3.1\POO_ProjetoDeProdutos.pdb
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\POO_ProjetoDeProdutos\obj\Debug\netcoreapp3.1\POO_ProjetoDeProdutos.csprojAssemblyReference.cache
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\POO_ProjetoDeProdutos\obj\Debug\netcoreapp3.1\POO_ProjetoDeProdutos.AssemblyInfoInputs.cache
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\POO_ProjetoDeProdutos\obj\Debug\netcoreapp3.1\POO_ProjetoDeProdutos.AssemblyInfo.cs
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\POO_ProjetoDeProdutos\obj\Debug\netcoreapp3.1\POO_ProjetoDeProdutos.csproj.CoreCompileInputs.cache
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\POO_ProjetoDeProdutos\obj\Debug\netcoreapp3.1\POO_ProjetoDeProdutos.dll
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\POO_ProjetoDeProdutos\obj\Debug\netcoreapp3.1\POO_ProjetoDeProdutos.pdb
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\POO_ProjetoDeProdutos\obj\Debug\netcoreapp3.1\POO_ProjetoDeProdutos.genruntimeconfig.cache

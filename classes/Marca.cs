@@ -14,7 +14,7 @@ namespace POO_ProjetoDeProdutos.classes
             Marca novaMarca = new Marca();
 
             Console.WriteLine($"Digite o código da Marca: ");
-            novaMarca.Codigo = Int16.Parse(Console.ReadLine());
+            novaMarca.Codigo = int.Parse(Console.ReadLine());
             Console.WriteLine($"Digite o nome da Marca: ");
             novaMarca.NomeMarca = Console.ReadLine();
             
@@ -25,12 +25,13 @@ namespace POO_ProjetoDeProdutos.classes
         }
 
         public void Listar(){
+            Console.Clear();
             Console.WriteLine($"Marcas Cadastradas: ");
             foreach (Marca item in Marcas)
             {
                 Console.WriteLine($"Código: {item.Codigo}");
-                Console.WriteLine($"Código: {item.Codigo}");
-                Console.WriteLine($"Código: {item.Codigo}");   
+                Console.WriteLine($"Nome: {item.NomeMarca}");
+                Console.WriteLine($"Data de Cadastro: {item.DataCadastro}");   
             }
             
         }
